@@ -1,5 +1,5 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: About our values
 ---
@@ -17,3 +17,22 @@ Direct trade is a form of sourcing practiced by some coffee roasters. Advocates 
 
 ### Reinvest profits
 We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+
+<Card>
+  <Card.Content>
+    <Title>
+      “There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.”
+    </Title>
+    <SubTitle>
+      Jeff Atwood
+    </SubTitle>
+  </Card.Content>
+  <Card.Footer>
+    <Card.Footer.Item>
+      View on <a href="https://twitter.com/codinghorror/status/506010907021828096">Twitter</a>
+    </Card.Footer.Item>
+    <Card.Footer.Item>
+      Share on <a href="#">Facebook</a>
+    </Card.Footer.Item>
+  </Card.Footer>
+</Card>
